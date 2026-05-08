@@ -1,0 +1,4 @@
+# Seed Data
+
+This project operates interactively and does not require preloaded binary data.
+Generated runtime logs are written to `data/system.log`.
